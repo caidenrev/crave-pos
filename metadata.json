@@ -1,0 +1,6 @@
+{
+  "name": "Crave",
+  "description": "Aplikasi POS SaaS & Kasir Digital UMKM dengan Laporan Sales Real-time, Manajemen Stok, Kasbon Pelanggan, dan Akses Karyawan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
